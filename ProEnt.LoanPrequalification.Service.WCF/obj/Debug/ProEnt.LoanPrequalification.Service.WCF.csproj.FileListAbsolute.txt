@@ -1,0 +1,72 @@
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service.WCF\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Service.WCF.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Service.WCF.pdb
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Model.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Repositories.NHibernate.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Service.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service.WCF\bin\Iesi.Collections.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service.WCF\bin\NHibernate.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Repositories.NHibernate.pdb
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Service.pdb
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Model.pdb
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service.WCF\obj\Debug\ProEnt.LoanPrequalification.Service.WCF.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service.WCF\obj\Debug\ProEnt.LoanPrequalification.Service.WCF.pdb
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Service.WCF.dll
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Service.WCF.pdb
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Model.dll
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Repositories.NHibernate.dll
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Service.dll
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service.WCF\bin\log4net.dll
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service.WCF\bin\Iesi.Collections.dll
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service.WCF\bin\NHibernate.dll
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Repositories.NHibernate.pdb
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Service.pdb
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Model.pdb
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service.WCF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service.WCF\obj\Debug\ProEnt.LoanPrequalification.Service.WCF.dll
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service.WCF\obj\Debug\ProEnt.LoanPrequalification.Service.WCF.pdb
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Service.WCF.dll
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Service.WCF.pdb
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Model.dll
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Repositories.NHibernate.dll
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Service.dll
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\bin\log4net.dll
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\bin\Iesi.Collections.dll
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\bin\NHibernate.dll
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Repositories.NHibernate.pdb
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Service.pdb
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Model.pdb
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\obj\Debug\ProEnt.LoanPrequalification.Service.WCF.dll
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\obj\Debug\ProEnt.LoanPrequalification.Service.WCF.pdb
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Service.WCF.dll
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Service.WCF.pdb
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Model.dll
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Repositories.NHibernate.dll
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Service.dll
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\bin\log4net.dll
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\bin\Iesi.Collections.dll
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\bin\NHibernate.dll
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Repositories.NHibernate.pdb
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Service.pdb
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Model.pdb
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\obj\Debug\ProEnt.LoanPrequalification.Service.WCF.dll
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\obj\Debug\ProEnt.LoanPrequalification.Service.WCF.pdb
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\bin\StructureMap.dll
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service.WCF\bin\StructureMap.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Service.WCF.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Service.WCF.pdb
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Model.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Repositories.NHibernate.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Service.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Service.WCF\bin\StructureMap.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Service.WCF\bin\NHibernate.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Service.WCF\bin\log4net.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Service.WCF\bin\Iesi.Collections.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Model.pdb
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Repositories.NHibernate.pdb
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Service.WCF\bin\ProEnt.LoanPrequalification.Service.pdb
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Service.WCF\obj\Debug\ProEnt.LoanPrequalification.Service.WCF.csprojResolveAssemblyReference.cache
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Service.WCF\obj\Debug\ProEnt.LoanPrequalification.Service.WCF.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Service.WCF\obj\Debug\ProEnt.LoanPrequalification.Service.WCF.pdb

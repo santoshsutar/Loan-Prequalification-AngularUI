@@ -1,0 +1,5 @@
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\WroxProf.LoanApproval\WroxProf.LoanApproval.UI.MVC\bin\WroxProf.LoanApproval.UI.MVC.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\WroxProf.LoanApproval\WroxProf.LoanApproval.UI.MVC\bin\WroxProf.LoanApproval.UI.MVC.pdb
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\WroxProf.LoanApproval\WroxProf.LoanApproval.UI.MVC\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\WroxProf.LoanApproval\WroxProf.LoanApproval.UI.MVC\obj\Debug\WroxProf.LoanApproval.UI.MVC.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\WroxProf.LoanApproval\WroxProf.LoanApproval.UI.MVC\obj\Debug\WroxProf.LoanApproval.UI.MVC.pdb

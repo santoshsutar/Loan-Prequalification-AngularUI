@@ -1,0 +1,10 @@
+C:\Projects\WroxProf.LoanApproval\WroxProf.LoanApproval.Model\bin\Debug\WroxProf.LoanApproval.Model.dll
+C:\Projects\WroxProf.LoanApproval\WroxProf.LoanApproval.Model\bin\Debug\WroxProf.LoanApproval.Model.pdb
+C:\Projects\WroxProf.LoanApproval\WroxProf.LoanApproval.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\WroxProf.LoanApproval\WroxProf.LoanApproval.Model\obj\Debug\WroxProf.LoanApproval.Model.dll
+C:\Projects\WroxProf.LoanApproval\WroxProf.LoanApproval.Model\obj\Debug\WroxProf.LoanApproval.Model.pdb
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\WroxProf.LoanApproval\WroxProf.LoanApproval.Model\bin\Debug\WroxProf.LoanApproval.Model.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\WroxProf.LoanApproval\WroxProf.LoanApproval.Model\bin\Debug\WroxProf.LoanApproval.Model.pdb
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\WroxProf.LoanApproval\WroxProf.LoanApproval.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\WroxProf.LoanApproval\WroxProf.LoanApproval.Model\obj\Debug\WroxProf.LoanApproval.Model.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\WroxProf.LoanApproval\WroxProf.LoanApproval.Model\obj\Debug\WroxProf.LoanApproval.Model.pdb

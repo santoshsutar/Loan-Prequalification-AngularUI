@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/ProEnt.LoanPrequalification.Service.Messages" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/ProEnt.LoanPrequalification.Service.Messages" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:3075/ProductService.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/ProEnt.LoanPrequalification.Service.Views" />
+  <xs:complexType name="ProductGetRequest">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ProductId" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ProductGetRequest" nillable="true" type="tns:ProductGetRequest" />
+  <xs:complexType name="ProductGetResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Message" nillable="true" type="xs:string" />
+      <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/ProEnt.LoanPrequalification.Service.Views" minOccurs="0" name="Product" nillable="true" type="q1:ProductView" />
+      <xs:element minOccurs="0" name="Success" type="xs:boolean" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ProductGetResponse" nillable="true" type="tns:ProductGetResponse" />
+  <xs:complexType name="ProductListResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Message" nillable="true" type="xs:string" />
+      <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/ProEnt.LoanPrequalification.Service.Views" minOccurs="0" name="Products" nillable="true" type="q2:ArrayOfProductView" />
+      <xs:element minOccurs="0" name="Success" type="xs:boolean" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ProductListResponse" nillable="true" type="tns:ProductListResponse" />
+  <xs:complexType name="ProductCreateRequest">
+    <xs:sequence>
+      <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/ProEnt.LoanPrequalification.Service.Views" minOccurs="0" name="Product" nillable="true" type="q3:ProductView" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ProductCreateRequest" nillable="true" type="tns:ProductCreateRequest" />
+  <xs:complexType name="ProductCreateResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Message" nillable="true" type="xs:string" />
+      <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/ProEnt.LoanPrequalification.Service.Views" minOccurs="0" name="Product" nillable="true" type="q4:ProductView" />
+      <xs:element minOccurs="0" name="Success" type="xs:boolean" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ProductCreateResponse" nillable="true" type="tns:ProductCreateResponse" />
+</xs:schema>

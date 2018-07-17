@@ -1,0 +1,48 @@
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\AR Review\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\AR Review\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Tests\bin\Debug\ProEnt.LoanPrequalification.Tests.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\AR Review\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Tests\bin\Debug\ProEnt.LoanPrequalification.Tests.pdb
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\AR Review\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\AR Review\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Tests\bin\Debug\ProEnt.LoanPrequalification.Model.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\AR Review\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Tests\bin\Debug\ProEnt.LoanPrequalification.Model.pdb
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\AR Review\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Tests\obj\Debug\ProEnt.LoanPrequalification.Tests.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\AR Review\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Tests\obj\Debug\ProEnt.LoanPrequalification.Tests.pdb
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Tests\bin\Debug\ProEnt.LoanPrequalification.Tests.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Tests\bin\Debug\ProEnt.LoanPrequalification.Tests.pdb
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Tests\bin\Debug\ProEnt.LoanPrequalification.Model.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Tests\bin\Debug\ProEnt.LoanPrequalification.Model.pdb
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Tests\obj\Debug\ProEnt.LoanPrequalification.Tests.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Tests\obj\Debug\ProEnt.LoanPrequalification.Tests.pdb
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Tests\bin\Debug\ProEnt.LoanPrequalification.Tests.dll
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Tests\bin\Debug\ProEnt.LoanPrequalification.Tests.pdb
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Tests\bin\Debug\ProEnt.LoanPrequalification.Model.dll
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Tests\bin\Debug\ProEnt.LoanPrequalification.Model.pdb
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Tests\obj\Debug\ProEnt.LoanPrequalification.Tests.dll
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Tests\obj\Debug\ProEnt.LoanPrequalification.Tests.pdb
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Tests\bin\Debug\ProEnt.LoanPrequalification.Tests.dll
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Tests\bin\Debug\ProEnt.LoanPrequalification.Tests.pdb
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Tests\bin\Debug\ProEnt.LoanPrequalification.Model.dll
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Tests\bin\Debug\ProEnt.LoanPrequalification.Model.pdb
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Tests\obj\Debug\ProEnt.LoanPrequalification.Tests.dll
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Tests\obj\Debug\ProEnt.LoanPrequalification.Tests.pdb
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Tests\bin\Debug\ProEnt.LoanPrequalification.Tests.dll
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Tests\bin\Debug\ProEnt.LoanPrequalification.Tests.pdb
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Tests\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Tests\bin\Debug\ProEnt.LoanPrequalification.Model.dll
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Tests\bin\Debug\ProEnt.LoanPrequalification.Model.pdb
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Tests\obj\Debug\ProEnt.LoanPrequalification.Tests.dll
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Tests\obj\Debug\ProEnt.LoanPrequalification.Tests.pdb
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Tests\bin\Debug\ProEnt.LoanPrequalification.Tests.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Tests\bin\Debug\ProEnt.LoanPrequalification.Tests.pdb
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Tests\bin\Debug\nunit.framework.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Tests\bin\Debug\ProEnt.LoanPrequalification.Model.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Tests\bin\Debug\ProEnt.LoanPrequalification.Model.pdb
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Tests\obj\Debug\ProEnt.LoanPrequalification.Tests.csprojResolveAssemblyReference.cache
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Tests\obj\Debug\ProEnt.LoanPrequalification.Tests.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Tests\obj\Debug\ProEnt.LoanPrequalification.Tests.pdb

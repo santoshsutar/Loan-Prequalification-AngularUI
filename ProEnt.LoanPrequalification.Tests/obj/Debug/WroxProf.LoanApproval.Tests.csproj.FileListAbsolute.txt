@@ -1,0 +1,16 @@
+C:\Projects\WroxProf.LoanApproval\WroxProf.LoanApproval.Tests\bin\Debug\WroxProf.LoanApproval.Tests.dll
+C:\Projects\WroxProf.LoanApproval\WroxProf.LoanApproval.Tests\bin\Debug\WroxProf.LoanApproval.Tests.pdb
+C:\Projects\WroxProf.LoanApproval\WroxProf.LoanApproval.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\WroxProf.LoanApproval\WroxProf.LoanApproval.Tests\bin\Debug\WroxProf.LoanApproval.Model.dll
+C:\Projects\WroxProf.LoanApproval\WroxProf.LoanApproval.Tests\bin\Debug\WroxProf.LoanApproval.Model.pdb
+C:\Projects\WroxProf.LoanApproval\WroxProf.LoanApproval.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\WroxProf.LoanApproval\WroxProf.LoanApproval.Tests\obj\Debug\WroxProf.LoanApproval.Tests.dll
+C:\Projects\WroxProf.LoanApproval\WroxProf.LoanApproval.Tests\obj\Debug\WroxProf.LoanApproval.Tests.pdb
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\WroxProf.LoanApproval\WroxProf.LoanApproval.Tests\bin\Debug\WroxProf.LoanApproval.Tests.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\WroxProf.LoanApproval\WroxProf.LoanApproval.Tests\bin\Debug\WroxProf.LoanApproval.Tests.pdb
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\WroxProf.LoanApproval\WroxProf.LoanApproval.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\WroxProf.LoanApproval\WroxProf.LoanApproval.Tests\bin\Debug\WroxProf.LoanApproval.Model.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\WroxProf.LoanApproval\WroxProf.LoanApproval.Tests\bin\Debug\WroxProf.LoanApproval.Model.pdb
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\WroxProf.LoanApproval\WroxProf.LoanApproval.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\WroxProf.LoanApproval\WroxProf.LoanApproval.Tests\obj\Debug\WroxProf.LoanApproval.Tests.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\WroxProf.LoanApproval\WroxProf.LoanApproval.Tests\obj\Debug\WroxProf.LoanApproval.Tests.pdb

@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lib", "Lib", "{6A0AC64F-1938-488C-89E2-174B078A78DB}"
+	ProjectSection(SolutionItems) = preProject
+		Lib\Iesi.Collections.dll = Lib\Iesi.Collections.dll
+		Lib\LinFu.DynamicProxy.dll = Lib\LinFu.DynamicProxy.dll
+		Lib\log4net.dll = Lib\log4net.dll
+		Lib\NHibernate.ByteCode.LinFu.dll = Lib\NHibernate.ByteCode.LinFu.dll
+		Lib\NHibernate.dll = Lib\NHibernate.dll
+		Lib\nunit.framework.dll = Lib\nunit.framework.dll
+		Lib\StructureMap.dll = Lib\StructureMap.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProEnt.LoanPrequalification.Model", "ProEnt.LoanPrequalification.Model\ProEnt.LoanPrequalification.Model.csproj", "{854E7CBF-5911-48B7-8BF4-16120E9220FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProEnt.LoanPrequalification.Tests", "ProEnt.LoanPrequalification.Tests\ProEnt.LoanPrequalification.Tests.csproj", "{5753790F-134B-4280-8A85-047C89305AF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProEnt.LoanPrequalification.Repositories.NHibernate", "ProEnt.LoanPrequalification.Repositories.NHibernate\ProEnt.LoanPrequalification.Repositories.NHibernate.csproj", "{ABB727B2-A718-4A33-A9AD-671B45289A28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProEnt.LoanPrequalification.IntegrationTests", "ProEnt.LoanPrequalification.IntegrationTests\ProEnt.LoanPrequalification.IntegrationTests.csproj", "{F5AB98DD-4064-4AFB-B97B-4412F040A40A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProEnt.LoanPrequalification.Service", "ProEnt.LoanPrequalification.Service\ProEnt.LoanPrequalification.Service.csproj", "{D077FAC2-BA93-4732-B8EA-15EFD890E3A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProEnt.LoanPrequalification.Service.WCF", "ProEnt.LoanPrequalification.Service.WCF\ProEnt.LoanPrequalification.Service.WCF.csproj", "{F6A4AB93-DC74-49A1-BE1D-F6AC25528C69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProEnt.LoanPrequalification.UI.MVC", "ProEnt.LoanPrequalification.UI.MVC\ProEnt.LoanPrequalification.UI.MVC.csproj", "{7631BBF0-B072-4F35-8095-4CBBE9BFD81B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F6A4AB93-DC74-49A1-BE1D-F6AC25528C69} = {F6A4AB93-DC74-49A1-BE1D-F6AC25528C69}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProEnt.LoanPrequalification.UI.WPF", "ProEnt.LoanPrequalification.UI.WPF\ProEnt.LoanPrequalification.UI.WPF.csproj", "{EBD59029-30C0-4AEB-8675-32E09B2560C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{854E7CBF-5911-48B7-8BF4-16120E9220FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{854E7CBF-5911-48B7-8BF4-16120E9220FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{854E7CBF-5911-48B7-8BF4-16120E9220FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{854E7CBF-5911-48B7-8BF4-16120E9220FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5753790F-134B-4280-8A85-047C89305AF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5753790F-134B-4280-8A85-047C89305AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5753790F-134B-4280-8A85-047C89305AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5753790F-134B-4280-8A85-047C89305AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABB727B2-A718-4A33-A9AD-671B45289A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB727B2-A718-4A33-A9AD-671B45289A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB727B2-A718-4A33-A9AD-671B45289A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB727B2-A718-4A33-A9AD-671B45289A28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5AB98DD-4064-4AFB-B97B-4412F040A40A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5AB98DD-4064-4AFB-B97B-4412F040A40A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5AB98DD-4064-4AFB-B97B-4412F040A40A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5AB98DD-4064-4AFB-B97B-4412F040A40A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D077FAC2-BA93-4732-B8EA-15EFD890E3A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D077FAC2-BA93-4732-B8EA-15EFD890E3A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D077FAC2-BA93-4732-B8EA-15EFD890E3A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D077FAC2-BA93-4732-B8EA-15EFD890E3A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6A4AB93-DC74-49A1-BE1D-F6AC25528C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A4AB93-DC74-49A1-BE1D-F6AC25528C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A4AB93-DC74-49A1-BE1D-F6AC25528C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A4AB93-DC74-49A1-BE1D-F6AC25528C69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7631BBF0-B072-4F35-8095-4CBBE9BFD81B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7631BBF0-B072-4F35-8095-4CBBE9BFD81B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7631BBF0-B072-4F35-8095-4CBBE9BFD81B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7631BBF0-B072-4F35-8095-4CBBE9BFD81B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBD59029-30C0-4AEB-8675-32E09B2560C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD59029-30C0-4AEB-8675-32E09B2560C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD59029-30C0-4AEB-8675-32E09B2560C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD59029-30C0-4AEB-8675-32E09B2560C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

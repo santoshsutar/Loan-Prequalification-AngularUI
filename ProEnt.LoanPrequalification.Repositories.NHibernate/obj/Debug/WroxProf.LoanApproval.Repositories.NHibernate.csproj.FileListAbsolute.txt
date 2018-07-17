@@ -1,0 +1,24 @@
+C:\Projects\WroxProf.LoanApproval\WroxProf.LoanApproval.Repositories.NHibernate\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\WroxProf.LoanApproval\WroxProf.LoanApproval.Repositories.NHibernate\bin\Debug\WroxProf.LoanApproval.Repositories.NHibernate.dll
+C:\Projects\WroxProf.LoanApproval\WroxProf.LoanApproval.Repositories.NHibernate\bin\Debug\WroxProf.LoanApproval.Repositories.NHibernate.pdb
+C:\Projects\WroxProf.LoanApproval\WroxProf.LoanApproval.Repositories.NHibernate\bin\Debug\WroxProf.LoanApproval.Model.dll
+C:\Projects\WroxProf.LoanApproval\WroxProf.LoanApproval.Repositories.NHibernate\bin\Debug\WroxProf.LoanApproval.Model.pdb
+C:\Projects\WroxProf.LoanApproval\WroxProf.LoanApproval.Repositories.NHibernate\obj\Debug\WroxProf.LoanApproval.Repositories.NHibernate.dll
+C:\Projects\WroxProf.LoanApproval\WroxProf.LoanApproval.Repositories.NHibernate\obj\Debug\WroxProf.LoanApproval.Repositories.NHibernate.pdb
+C:\Projects\WroxProf.LoanApproval\WroxProf.LoanApproval.Repositories.NHibernate\bin\Debug\Castle.Core.dll
+C:\Projects\WroxProf.LoanApproval\WroxProf.LoanApproval.Repositories.NHibernate\bin\Debug\Castle.DynamicProxy2.dll
+C:\Projects\WroxProf.LoanApproval\WroxProf.LoanApproval.Repositories.NHibernate\bin\Debug\Iesi.Collections.dll
+C:\Projects\WroxProf.LoanApproval\WroxProf.LoanApproval.Repositories.NHibernate\bin\Debug\NHibernate.dll
+C:\Projects\WroxProf.LoanApproval\WroxProf.LoanApproval.Repositories.NHibernate\bin\Debug\log4net.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\WroxProf.LoanApproval\WroxProf.LoanApproval.Repositories.NHibernate\bin\Debug\WroxProf.LoanApproval.Repositories.NHibernate.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\WroxProf.LoanApproval\WroxProf.LoanApproval.Repositories.NHibernate\bin\Debug\WroxProf.LoanApproval.Repositories.NHibernate.pdb
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\WroxProf.LoanApproval\WroxProf.LoanApproval.Repositories.NHibernate\bin\Debug\Iesi.Collections.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\WroxProf.LoanApproval\WroxProf.LoanApproval.Repositories.NHibernate\bin\Debug\LinFu.DynamicProxy.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\WroxProf.LoanApproval\WroxProf.LoanApproval.Repositories.NHibernate\bin\Debug\log4net.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\WroxProf.LoanApproval\WroxProf.LoanApproval.Repositories.NHibernate\bin\Debug\NHibernate.ByteCode.LinFu.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\WroxProf.LoanApproval\WroxProf.LoanApproval.Repositories.NHibernate\bin\Debug\NHibernate.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\WroxProf.LoanApproval\WroxProf.LoanApproval.Repositories.NHibernate\bin\Debug\WroxProf.LoanApproval.Model.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\WroxProf.LoanApproval\WroxProf.LoanApproval.Repositories.NHibernate\bin\Debug\WroxProf.LoanApproval.Model.pdb
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\WroxProf.LoanApproval\WroxProf.LoanApproval.Repositories.NHibernate\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\WroxProf.LoanApproval\WroxProf.LoanApproval.Repositories.NHibernate\obj\Debug\WroxProf.LoanApproval.Repositories.NHibernate.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\WroxProf.LoanApproval\WroxProf.LoanApproval.Repositories.NHibernate\obj\Debug\WroxProf.LoanApproval.Repositories.NHibernate.pdb

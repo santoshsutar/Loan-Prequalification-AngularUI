@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="bb56dc84-ef87-46b4-b70b-026ec68ca313" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:3075/LoanApplicationService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="LoanApplicationService.xsd" MetadataType="Schema" ID="ed7b374e-8eca-47ce-8adc-0ed5897d6412" SourceId="1" SourceUrl="http://localhost:3075/LoanApplicationService.svc?xsd=xsd3" />
+    <MetadataFile FileName="LoanApplicationService1.xsd" MetadataType="Schema" ID="42d24150-5df2-497b-8968-3d3b0ea4f236" SourceId="1" SourceUrl="http://localhost:3075/LoanApplicationService.svc?xsd=xsd2" />
+    <MetadataFile FileName="LoanApplicationService.wsdl" MetadataType="Wsdl" ID="1b9bd4e6-02e3-4e2b-8dd4-48c1c64e6283" SourceId="1" SourceUrl="http://localhost:3075/LoanApplicationService.svc?wsdl" />
+    <MetadataFile FileName="LoanApplicationService.disco" MetadataType="Disco" ID="01ba92a3-4ce1-4f44-96a9-53b50987be98" SourceId="1" SourceUrl="http://localhost:3075/LoanApplicationService.svc?disco" />
+    <MetadataFile FileName="LoanApplicationService2.xsd" MetadataType="Schema" ID="2292a9bb-eb12-49c5-bb47-010c92a3b2f6" SourceId="1" SourceUrl="http://localhost:3075/LoanApplicationService.svc?xsd=xsd1" />
+    <MetadataFile FileName="LoanApplicationService3.xsd" MetadataType="Schema" ID="4293253b-5567-44fe-bcec-2af31ab936ee" SourceId="1" SourceUrl="http://localhost:3075/LoanApplicationService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

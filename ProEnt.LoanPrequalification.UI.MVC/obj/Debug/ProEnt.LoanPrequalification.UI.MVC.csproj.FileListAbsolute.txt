@@ -1,0 +1,39 @@
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.UI.MVC\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.UI.MVC\bin\ProEnt.LoanPrequalification.UI.MVC.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.UI.MVC\bin\ProEnt.LoanPrequalification.UI.MVC.pdb
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.UI.MVC\obj\Debug\ProEnt.LoanPrequalification.UI.MVC.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.UI.MVC\obj\Debug\ProEnt.LoanPrequalification.UI.MVC.pdb
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.UI.MVC\bin\ProEnt.LoanPrequalification.UI.MVC.dll
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.UI.MVC\bin\ProEnt.LoanPrequalification.UI.MVC.pdb
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.UI.MVC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.UI.MVC\obj\Debug\ProEnt.LoanPrequalification.UI.MVC.dll
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.UI.MVC\obj\Debug\ProEnt.LoanPrequalification.UI.MVC.pdb
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.UI.MVC\bin\ProEnt.LoanPrequalification.UI.MVC.dll
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.UI.MVC\bin\ProEnt.LoanPrequalification.UI.MVC.pdb
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.UI.MVC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.UI.MVC\obj\Debug\ProEnt.LoanPrequalification.UI.MVC.dll
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.UI.MVC\obj\Debug\ProEnt.LoanPrequalification.UI.MVC.pdb
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.UI.MVC\bin\ProEnt.LoanPrequalification.UI.MVC.dll
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.UI.MVC\bin\ProEnt.LoanPrequalification.UI.MVC.pdb
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.UI.MVC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.UI.MVC\obj\Debug\ProEnt.LoanPrequalification.UI.MVC.dll
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.UI.MVC\obj\Debug\ProEnt.LoanPrequalification.UI.MVC.pdb
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.UI.MVC\bin\StructureMap.dll
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.UI.MVC\bin\StructureMap.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.UI.MVC\bin\ProEnt.LoanPrequalification.UI.MVC.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.UI.MVC\bin\ProEnt.LoanPrequalification.UI.MVC.pdb
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.UI.MVC\bin\Newtonsoft.Json.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.UI.MVC\bin\StructureMap.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.UI.MVC\bin\System.Net.Http.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.UI.MVC\bin\System.Net.Http.Formatting.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.UI.MVC\bin\System.Net.Http.WebRequest.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.UI.MVC\bin\System.Web.Http.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.UI.MVC\bin\System.Web.Http.WebHost.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.UI.MVC\bin\Newtonsoft.Json.xml
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.UI.MVC\bin\System.Net.Http.xml
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.UI.MVC\bin\System.Net.Http.Formatting.xml
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.UI.MVC\bin\System.Net.Http.WebRequest.xml
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.UI.MVC\bin\System.Web.Http.xml
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.UI.MVC\bin\System.Web.Http.WebHost.xml
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.UI.MVC\obj\Debug\ProEnt.LoanPrequalification.UI.MVC.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.UI.MVC\obj\Debug\ProEnt.LoanPrequalification.UI.MVC.pdb

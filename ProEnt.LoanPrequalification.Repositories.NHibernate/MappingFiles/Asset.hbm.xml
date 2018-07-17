@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+    namespace="ProEnt.LoanPrequalification.Model.LoanApplications"
+        assembly="ProEnt.LoanPrequalification.Model">
+
+    <class name="Asset" table="Assets" lazy="false">
+
+        <id name="Id" column="AssetId" type="guid">
+            <generator class="guid" />
+        </id>
+
+        <property name="Description">
+            <column name="Description" sql-type="nvarchar(50)" not-null="true" />
+        </property>
+                
+        <property name="AccountNumber">
+            <column name="AccountNumber" sql-type="nvarchar(50)" not-null="true" />
+        </property>
+        
+        <property name="Balance">
+            <column name="Balance" sql-type="float" not-null="true" />
+        </property>
+
+        <many-to-one name="LoanApplication"
+                     class="LoanApplication"
+                     column="LoanApplicationId"
+                     not-null="true"
+					  />
+        
+    </class>
+</hibernate-mapping >

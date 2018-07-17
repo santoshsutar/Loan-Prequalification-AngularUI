@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ProEnt.LoanPrequalification.Service.WCF.LoanApplicationService" CodeBehind="LoanApplicationService.svc.cs" %>

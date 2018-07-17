@@ -1,0 +1,71 @@
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\AR Review\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\ProEnt.LoanPrequalification.Repositories.NHibernate.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\AR Review\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\ProEnt.LoanPrequalification.Repositories.NHibernate.pdb
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\AR Review\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\Iesi.Collections.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\AR Review\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\LinFu.DynamicProxy.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\AR Review\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\NHibernate.ByteCode.LinFu.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\AR Review\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\NHibernate.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\AR Review\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\ProEnt.LoanPrequalification.Model.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\AR Review\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\ProEnt.LoanPrequalification.Model.pdb
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\AR Review\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\AR Review\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\obj\Debug\ProEnt.LoanPrequalification.Repositories.NHibernate.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\AR Review\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\obj\Debug\ProEnt.LoanPrequalification.Repositories.NHibernate.pdb
+C:\Projects\Wrox Professional Enterprise\Chapter 8 - ORM\AR Review\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\log4net.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\ProEnt.LoanPrequalification.Repositories.NHibernate.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\ProEnt.LoanPrequalification.Repositories.NHibernate.pdb
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\Iesi.Collections.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\LinFu.DynamicProxy.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\NHibernate.ByteCode.LinFu.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\NHibernate.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\ProEnt.LoanPrequalification.Model.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\ProEnt.LoanPrequalification.Model.pdb
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\obj\Debug\ProEnt.LoanPrequalification.Repositories.NHibernate.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\obj\Debug\ProEnt.LoanPrequalification.Repositories.NHibernate.pdb
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\ProEnt.LoanPrequalification.Repositories.NHibernate.dll
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\ProEnt.LoanPrequalification.Repositories.NHibernate.pdb
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\Iesi.Collections.dll
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\LinFu.DynamicProxy.dll
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\log4net.dll
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\NHibernate.ByteCode.LinFu.dll
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\NHibernate.dll
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\ProEnt.LoanPrequalification.Model.dll
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\ProEnt.LoanPrequalification.Model.pdb
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\obj\Debug\ProEnt.LoanPrequalification.Repositories.NHibernate.dll
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Repositories.NHibernate\obj\Debug\ProEnt.LoanPrequalification.Repositories.NHibernate.pdb
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\ProEnt.LoanPrequalification.Repositories.NHibernate.dll
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\ProEnt.LoanPrequalification.Repositories.NHibernate.pdb
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\Iesi.Collections.dll
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\LinFu.DynamicProxy.dll
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\log4net.dll
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\NHibernate.ByteCode.LinFu.dll
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\NHibernate.dll
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\ProEnt.LoanPrequalification.Model.dll
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\ProEnt.LoanPrequalification.Model.pdb
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Repositories.NHibernate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Repositories.NHibernate\obj\Debug\ProEnt.LoanPrequalification.Repositories.NHibernate.dll
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Repositories.NHibernate\obj\Debug\ProEnt.LoanPrequalification.Repositories.NHibernate.pdb
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\ProEnt.LoanPrequalification.Repositories.NHibernate.dll
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\ProEnt.LoanPrequalification.Repositories.NHibernate.pdb
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\Iesi.Collections.dll
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\LinFu.DynamicProxy.dll
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\log4net.dll
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\NHibernate.ByteCode.LinFu.dll
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\NHibernate.dll
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\ProEnt.LoanPrequalification.Model.dll
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\ProEnt.LoanPrequalification.Model.pdb
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Repositories.NHibernate\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Repositories.NHibernate\obj\Debug\ProEnt.LoanPrequalification.Repositories.NHibernate.dll
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Repositories.NHibernate\obj\Debug\ProEnt.LoanPrequalification.Repositories.NHibernate.pdb
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\ProEnt.LoanPrequalification.Repositories.NHibernate.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\ProEnt.LoanPrequalification.Repositories.NHibernate.pdb
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\Iesi.Collections.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\LinFu.DynamicProxy.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\log4net.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\NHibernate.ByteCode.LinFu.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\NHibernate.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\ProEnt.LoanPrequalification.Model.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Repositories.NHibernate\bin\Debug\ProEnt.LoanPrequalification.Model.pdb
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Repositories.NHibernate\obj\Debug\ProEnt.LoanPrequalification.Repositories.NHibernate.csprojResolveAssemblyReference.cache
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Repositories.NHibernate\obj\Debug\ProEnt.LoanPrequalification.Repositories.NHibernate.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Repositories.NHibernate\obj\Debug\ProEnt.LoanPrequalification.Repositories.NHibernate.pdb

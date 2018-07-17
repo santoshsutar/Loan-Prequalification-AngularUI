@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+    namespace="ProEnt.LoanPrequalification.Model.Products"
+        assembly="ProEnt.LoanPrequalification.Model">
+
+	<class name="ProEnt.LoanPrequalification.Model.Products.Product" table="Products" lazy="false">
+
+		<id name="Id" column="ProductId" type="guid">
+			<generator class="guid" />
+		</id>
+
+		<property name="Name">
+			<column name="Name" sql-type="nvarchar(50)" not-null="true" />
+		</property>
+
+		<property name="InterestRate">
+			<column name="InterestRate" sql-type="float" not-null="true" />
+		</property>
+
+		<property name="MaximumLTV">
+			<column name="MaximumLTV" sql-type="float" not-null="true" />
+		</property>
+
+		<property name="MaximumLoan">
+			<column name="MaximumLoan" sql-type="integer" not-null="true" />
+		</property>
+
+		<property name="MaximumLoanTerm">
+			<column name="MaximumLoanTerm" sql-type="integer" not-null="true" />
+		</property>
+
+	</class>
+
+</hibernate-mapping>

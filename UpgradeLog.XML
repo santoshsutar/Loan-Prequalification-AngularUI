@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ProEnt.LoanPrequalification">
+</Property><Property Name="Solution File" Value="F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.sln">
+</Property><Property Name="Date" Value="Monday, April 16, 2018">
+</Property><Property Name="Time" Value="10:50 AM">
+</Property></Properties><Event ErrorLevel="0" Project="ProEnt.LoanPrequalification.Model" Source="ProEnt.LoanPrequalification.Model\ProEnt.LoanPrequalification.Model.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ProEnt.LoanPrequalification.Model" Source="ProEnt.LoanPrequalification.Model\ProEnt.LoanPrequalification.Model.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ProEnt.LoanPrequalification.Tests" Source="ProEnt.LoanPrequalification.Tests\ProEnt.LoanPrequalification.Tests.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ProEnt.LoanPrequalification.Tests" Source="ProEnt.LoanPrequalification.Tests\ProEnt.LoanPrequalification.Tests.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ProEnt.LoanPrequalification.Repositories.NHibernate" Source="ProEnt.LoanPrequalification.Repositories.NHibernate\ProEnt.LoanPrequalification.Repositories.NHibernate.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ProEnt.LoanPrequalification.Repositories.NHibernate" Source="ProEnt.LoanPrequalification.Repositories.NHibernate\ProEnt.LoanPrequalification.Repositories.NHibernate.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ProEnt.LoanPrequalification.IntegrationTests" Source="ProEnt.LoanPrequalification.IntegrationTests\ProEnt.LoanPrequalification.IntegrationTests.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ProEnt.LoanPrequalification.IntegrationTests" Source="ProEnt.LoanPrequalification.IntegrationTests\ProEnt.LoanPrequalification.IntegrationTests.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ProEnt.LoanPrequalification.Service" Source="ProEnt.LoanPrequalification.Service\ProEnt.LoanPrequalification.Service.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ProEnt.LoanPrequalification.Service" Source="ProEnt.LoanPrequalification.Service\ProEnt.LoanPrequalification.Service.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ProEnt.LoanPrequalification.Service.WCF" Source="ProEnt.LoanPrequalification.Service.WCF\ProEnt.LoanPrequalification.Service.WCF.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ProEnt.LoanPrequalification.Service.WCF" Source="ProEnt.LoanPrequalification.Service.WCF\ProEnt.LoanPrequalification.Service.WCF.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ProEnt.LoanPrequalification.UI.MVC" Source="ProEnt.LoanPrequalification.UI.MVC\ProEnt.LoanPrequalification.UI.MVC.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ProEnt.LoanPrequalification.UI.MVC" Source="ProEnt.LoanPrequalification.UI.MVC\ProEnt.LoanPrequalification.UI.MVC.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ProEnt.LoanPrequalification.UI.WPF" Source="ProEnt.LoanPrequalification.UI.WPF\ProEnt.LoanPrequalification.UI.WPF.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ProEnt.LoanPrequalification.UI.WPF" Source="ProEnt.LoanPrequalification.UI.WPF\ProEnt.LoanPrequalification.UI.WPF.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ProEnt.LoanPrequalification.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ProEnt.LoanPrequalification.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ProEnt.LoanPrequalification.Model" Source="ProEnt.LoanPrequalification.Model\ProEnt.LoanPrequalification.Model.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ProEnt.LoanPrequalification.Tests" Source="ProEnt.LoanPrequalification.Tests\ProEnt.LoanPrequalification.Tests.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ProEnt.LoanPrequalification.Repositories.NHibernate" Source="ProEnt.LoanPrequalification.Repositories.NHibernate\ProEnt.LoanPrequalification.Repositories.NHibernate.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ProEnt.LoanPrequalification.IntegrationTests" Source="ProEnt.LoanPrequalification.IntegrationTests\ProEnt.LoanPrequalification.IntegrationTests.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ProEnt.LoanPrequalification.Service" Source="ProEnt.LoanPrequalification.Service\ProEnt.LoanPrequalification.Service.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ProEnt.LoanPrequalification.Service.WCF" Source="ProEnt.LoanPrequalification.Service.WCF\ProEnt.LoanPrequalification.Service.WCF.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ProEnt.LoanPrequalification.UI.MVC" Source="ProEnt.LoanPrequalification.UI.MVC\ProEnt.LoanPrequalification.UI.MVC.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ProEnt.LoanPrequalification.UI.WPF" Source="ProEnt.LoanPrequalification.UI.WPF\ProEnt.LoanPrequalification.UI.WPF.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

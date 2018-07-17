@@ -1,0 +1,35 @@
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service\bin\Debug\ProEnt.LoanPrequalification.Service.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service\bin\Debug\ProEnt.LoanPrequalification.Service.pdb
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service\bin\Debug\ProEnt.LoanPrequalification.Model.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service\bin\Debug\ProEnt.LoanPrequalification.Model.pdb
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service\obj\Debug\ProEnt.LoanPrequalification.Service.dll
+C:\Projects\Wrox Professional Enterprise\Chapter 12 - Complete App\New Folder\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service\obj\Debug\ProEnt.LoanPrequalification.Service.pdb
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service\bin\Debug\ProEnt.LoanPrequalification.Service.dll
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service\bin\Debug\ProEnt.LoanPrequalification.Service.pdb
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service\bin\Debug\ProEnt.LoanPrequalification.Model.dll
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service\bin\Debug\ProEnt.LoanPrequalification.Model.pdb
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service\obj\Debug\ProEnt.LoanPrequalification.Service.dll
+C:\Users\Scott\Desktop\ProEnt.LoanPrequalification\ProEnt.LoanPrequalification.Service\obj\Debug\ProEnt.LoanPrequalification.Service.pdb
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service\bin\Debug\ProEnt.LoanPrequalification.Service.dll
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service\bin\Debug\ProEnt.LoanPrequalification.Service.pdb
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service\bin\Debug\ProEnt.LoanPrequalification.Model.dll
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service\bin\Debug\ProEnt.LoanPrequalification.Model.pdb
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service\obj\Debug\ProEnt.LoanPrequalification.Service.dll
+C:\Users\Scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service\obj\Debug\ProEnt.LoanPrequalification.Service.pdb
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service\bin\Debug\ProEnt.LoanPrequalification.Service.dll
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service\bin\Debug\ProEnt.LoanPrequalification.Service.pdb
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service\bin\Debug\ProEnt.LoanPrequalification.Model.dll
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service\bin\Debug\ProEnt.LoanPrequalification.Model.pdb
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service\obj\Debug\ProEnt.LoanPrequalification.Service.dll
+C:\Documents and Settings\scott\Desktop\ProEnt\ProEnt.LoanPrequalification.Service\obj\Debug\ProEnt.LoanPrequalification.Service.pdb
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Service\bin\Debug\ProEnt.LoanPrequalification.Service.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Service\bin\Debug\ProEnt.LoanPrequalification.Service.pdb
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Service\bin\Debug\ProEnt.LoanPrequalification.Model.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Service\bin\Debug\ProEnt.LoanPrequalification.Model.pdb
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Service\obj\Debug\ProEnt.LoanPrequalification.Service.csprojResolveAssemblyReference.cache
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Service\obj\Debug\ProEnt.LoanPrequalification.Service.dll
+F:\Angular Sample Apps\proent-70298\ProEnt.LoanPrequalification.Service\obj\Debug\ProEnt.LoanPrequalification.Service.pdb

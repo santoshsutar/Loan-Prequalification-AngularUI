@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/ProEnt.LoanPrequalification.Service.Messages" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/ProEnt.LoanPrequalification.Service.Messages" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:3075/LoanApplicationService.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/ProEnt.LoanPrequalification.Service.Views" />
+  <xs:complexType name="LoanApplicationListResponse">
+    <xs:sequence>
+      <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/ProEnt.LoanPrequalification.Service.Views" minOccurs="0" name="LoanApplications" nillable="true" type="q1:ArrayOfLoanApplicationSummaryView" />
+      <xs:element minOccurs="0" name="Message" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Success" type="xs:boolean" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="LoanApplicationListResponse" nillable="true" type="tns:LoanApplicationListResponse" />
+  <xs:complexType name="LoanApplicationGetByIdRequest">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Id" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="LoanApplicationGetByIdRequest" nillable="true" type="tns:LoanApplicationGetByIdRequest" />
+  <xs:complexType name="LoanApplicationGetByIdResponse">
+    <xs:sequence>
+      <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/ProEnt.LoanPrequalification.Service.Views" minOccurs="0" name="LoanApplication" nillable="true" type="q2:LoanApplicationDetailView" />
+      <xs:element minOccurs="0" name="Message" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Success" type="xs:boolean" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="LoanApplicationGetByIdResponse" nillable="true" type="tns:LoanApplicationGetByIdResponse" />
+  <xs:complexType name="LoanApplicationCreateRequest">
+    <xs:sequence>
+      <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/ProEnt.LoanPrequalification.Service.Views" minOccurs="0" name="LoanApplicationView" nillable="true" type="q3:LoanApplicationCreateView" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="LoanApplicationCreateRequest" nillable="true" type="tns:LoanApplicationCreateRequest" />
+  <xs:complexType name="LoanApplicationCreateResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="LoanApplicationId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Message" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Success" type="xs:boolean" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="LoanApplicationCreateResponse" nillable="true" type="tns:LoanApplicationCreateResponse" />
+  <xs:complexType name="OfferLetterGetByIdRequest">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Id" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="OfferLetterGetByIdRequest" nillable="true" type="tns:OfferLetterGetByIdRequest" />
+  <xs:complexType name="OfferLetterGetByIdResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Message" nillable="true" type="xs:string" />
+      <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/ProEnt.LoanPrequalification.Service.Views" minOccurs="0" name="OfferLetter" nillable="true" type="q4:OfferLetterView" />
+      <xs:element minOccurs="0" name="Success" type="xs:boolean" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="OfferLetterGetByIdResponse" nillable="true" type="tns:OfferLetterGetByIdResponse" />
+</xs:schema>

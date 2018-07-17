@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+    namespace="ProEnt.LoanPrequalification.Model.Borrowers"
+        assembly="ProEnt.LoanPrequalification.Model">
+
+	<class name="ProEnt.LoanPrequalification.Model.Borrowers.Borrower" table="Borrowers" lazy="false">
+
+		<id name="Id" column="BorrowerId" type="guid">
+			<generator class="guid" />
+		</id>
+
+		<component name="BankAccount" class="ProEnt.LoanPrequalification.Model.BankAccount">
+			<property access="field.camelcase-underscore" column="BankAccountName" name="Name"/>
+			<property access="field.camelcase-underscore" column="BankAccountNumber" name="AccountNumber"/>
+			<property access="field.camelcase-underscore" column="BankAccountSortCode" name="SortCode"/>
+			<property access="field.camelcase-underscore" column="BankAccountBankName" name="BankName"/>
+		</component>
+
+		<component name="ContactAddress" class="ProEnt.LoanPrequalification.Model.Address">
+			<property access="field.camelcase-underscore" column="Street" name="Street"/>
+			<property access="field.camelcase-underscore" column="Town" name="Town"/>
+			<property access="field.camelcase-underscore" column="City" name="City"/>
+			<property access="field.camelcase-underscore" column="PostCode" name="PostCode"/>
+		</component>
+
+		<component name="Employer" class="Employer">
+			<property access="field.camelcase-underscore" column="EmployerName" name="Name"/>
+			<property access="field.camelcase-underscore" column="MonthlyIncome" name="MonthlyIncome"/>
+			
+			<component access="field.camelcase-underscore" name="Address" class="ProEnt.LoanPrequalification.Model.Address">
+				<property access="field.camelcase-underscore" column="EmployerStreet" name="Street"/>
+				<property access="field.camelcase-underscore" column="EmployerTown" name="Town"/>
+				<property access="field.camelcase-underscore" column="EmployerCity" name="City"/>
+				<property access="field.camelcase-underscore" column="EmployerPostCode" name="PostCode"/>
+			</component>
+			
+		</component>
+
+		<component name="CreditScore" class="CreditScore">
+			<property access="field.camelcase-underscore" column="CreditAgency" name="CreditAgency"/>
+			<property access="field.camelcase-underscore" column="CreditScore" name="Score"/>			
+		</component>
+
+		<property name="FirstName">
+			<column name="FirstName" sql-type="nvarchar(50)" not-null="true" />
+		</property>
+
+		<property name="LastName">
+			<column name="LastName" sql-type="nvarchar(50)" not-null="true" />
+		</property>
+
+		<property name="Age">
+			<column name="Age" sql-type="integer" not-null="true" />
+		</property>
+
+    <!--
+    <bag name="LoanApplications" table="LoanBorrowers" access="field.camelcase-underscore" inverse="true" cascade="all" lazy="true" >
+      <key column="LoanApplicationId"/>
+      <many-to-many class="ProEnt.LoanPrequalification.Model.LoanApplications.LoanApplication" column="BorrowerId"></many-to-many>
+    </bag>
+    -->
+        
+        <!---
+        <many-to-one name="LoanApplication"
+                      class="ProEnt.LoanPrequalification.Model.LoanApplications.LoanApplication"
+                      column="ApplicationId"
+                      not-null="true"
+					  />			
+		    -->
+	</class>
+
+</hibernate-mapping>
